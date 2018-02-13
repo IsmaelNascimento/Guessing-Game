@@ -1,0 +1,9 @@
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\bin\x86\Debug\GuessingGame.exe.config
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\bin\x86\Debug\GuessingGame.exe
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\bin\x86\Debug\GuessingGame.pdb
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\obj\x86\Debug\GuessingGame.Form1.resources
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\obj\x86\Debug\GuessingGame.Properties.Resources.resources
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\obj\x86\Debug\GuessingGame.csproj.GenerateResource.Cache
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\obj\x86\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\obj\x86\Debug\GuessingGame.exe
+C:\Users\ismae\Documents\Workspace\VisualStudio\GuessingGame\GuessingGame\obj\x86\Debug\GuessingGame.pdb
